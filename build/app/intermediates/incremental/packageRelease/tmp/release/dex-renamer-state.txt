@@ -1,4 +1,0 @@
-#Wed Jun 18 01:37:40 ICT 2025
-base.0=/Volumes/macOs-Dev/Documents/GitHub/flutter_practice_project/dca_calculator/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
