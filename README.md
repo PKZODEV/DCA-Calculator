@@ -405,21 +405,6 @@ test/
 - **Input Validation** - All user inputs properly validated
 - **Error Handling** - Comprehensive error handling throughout the app
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### MIT License Summary
-
-```
-✅ Commercial use
-✅ Modification
-✅ Distribution
-✅ Private use
-❌ Liability
-❌ Warranty
-```
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
